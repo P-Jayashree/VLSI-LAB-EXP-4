@@ -50,8 +50,17 @@ STEP:10 Double click on the Implement Design and double click on the Generate Pr
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
 VERILOG CODE
+OUTPUT:
+# D-FLIP FLOP
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/bbdcdd47-c8f9-4a5f-be7c-1caf149f76f7)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/eff3338d-82ad-4a62-9bd6-3c78e7bcecba)
+# JK FLIP FLOP
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/6c034b8e-8936-4348-a125-b3df138e7370)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/4f65957e-e22d-4aac-b4a0-55cd22b82ddc)
+# MOD-10 COUNTER
 
-   <<< TYPE YOUR VERILOG CODE >>>
+
+   
 
 OUTPUT WAVEFORM
  <<< PASTE YOUR OUTPUT WAVEFORM >>>
