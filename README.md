@@ -5,9 +5,7 @@ AIM:
  To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Xilinx ISE.
 
 APPARATUS REQUIRED:
-
-Xilinx 14.7
-Spartan6 FPGA
+Vivado 2023.1
 
 **LOGIC DIAGRAM**
 
@@ -58,13 +56,17 @@ OUTPUT:
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/6c034b8e-8936-4348-a125-b3df138e7370)
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/4f65957e-e22d-4aac-b4a0-55cd22b82ddc)
 # MOD-10 COUNTER
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/c16897ac-c113-48a7-a012-c49f6d540d2a)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/6b3abc02-3610-4f5d-a327-bae5fa0cf608)
+# Ripple Carry Counter
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/0ab90066-b39e-4dac-b7b2-b05a29171346)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/e55670e9-40f9-4e88-8e1a-5b72bd3f29e4)
+# T Flip Flop
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/6036f11d-87dc-45af-b320-38c57ffc07c2)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/8ebc058c-4610-4c43-af6a-5bb0434fe854)
+# UP Down Counter
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/719fbb52-c8bb-40c1-9d8c-17bea88607d2)
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-4/assets/161108372/6088f520-6a5d-401f-bdee-b25764ab3281)
 
-
-   
-
-OUTPUT WAVEFORM
- <<< PASTE YOUR OUTPUT WAVEFORM >>>
-
-RESULT
-
-
+# RESULT
+Hence thus given To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using vivado
